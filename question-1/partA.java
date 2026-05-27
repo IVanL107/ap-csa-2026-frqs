@@ -1,8 +1,11 @@
-public Account(String requestedName){
-  username = requestedName;
-  int i = 1;
-  while(!(isAvailable(requestedName))){
-    username = requestedName + i;
-    i++;
-  }
+public Account(String requestedName) {
+    String name = requestedName;
+    int i = 1;
+
+    while (!isAvailable(name)) {
+        name = requestedName + i;
+        i++;
+    }
+
+    username = name;
 }
