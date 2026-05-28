@@ -1,5 +1,5 @@
 ## My Approach 
-*I looped through each tile in the specififed row and added up all the points for all tiles. At the saem time, I checked if all tiles in the row had the same color. If they did, I doubled the total sum.
+* I looped through each tile in the specififed row and added up all the points for all tiles. At the saem time, I checked if all tiles in the row had the same color. If they did, I doubled the total sum.
 ## Course Connections 
 * This FRQ required me to iterate over arrays with enhanced for loops and access object propreties using getter methods.
 ## What Gave Me Trouble 
