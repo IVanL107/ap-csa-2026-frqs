@@ -5,4 +5,4 @@
   - [x] Part B: ```partB.java```
 * [X] Question 2: ```Bottle.java```
 * [X] Question 3: ```CoureRecord.java```
-* [ ] Question 4:
+* [x] Question 4: ```getPointsForRow.java```
